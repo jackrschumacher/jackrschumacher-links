@@ -34,7 +34,7 @@ links:
   - href: "https://github.com/jackrschumacher/"
     icon: "fab fa-github"
     title: "GitHub"
-  - href: "mailto:you@contact@jackrschumacher.com"
+  - href: "mailto:contact@jackrschumacher.com"
     icon: "fas fa-envelope"
     title: "Email Me"
   

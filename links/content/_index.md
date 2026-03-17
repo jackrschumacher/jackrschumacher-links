@@ -37,7 +37,7 @@ links:
   - href: "https://github.com/jackrschumacher/"
     icon: "fab fa-github"
     title: "GitHub"
-  - href: "https://github.com/jackrschumacher/"
+  - href: "https://codeberg.org/jackrschumacher"
     icon: "fas fa-code-branch"
     title: "Codeberg"
   - href: "mailto:jackrschumacher@gmail.com"

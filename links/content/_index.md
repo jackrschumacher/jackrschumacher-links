@@ -20,17 +20,20 @@ description: "College student pursuing a degree in Business Information Systems 
 
 # Link cards
 links:
-  - href: "https://www.jackrschumacher.com/"
-    icon: "fas fa-globe"
-    title: "My Website"
+  - href: "https://www.jackrschumacher.com/about/"
+    icon: "fas fa-circle-info"
+    title: "About me"
+  
   - href: "https://www.jackrschumacher.com/contact"
     icon: "fas fa-address-book"
     title: "Contact me"
- 
   - href: "https://linked.in/jackrschumacher"
     icon: "fab fa-linkedin"
     title: "LinkedIn"
     description: "View my LinkedIn"
+  - href: "https://www.jackrschumacher.com/"
+    icon: "fas fa-globe"
+    title: "My Website"
   - href: "https://www.jackrschumacher.com/projects/"
     icon: "fas fa-code"
     title: "View my projects"

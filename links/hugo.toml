@@ -1,5 +1,5 @@
 baseURL = "https://links.jackrschumacher.com/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Links- Jack Schumacher"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"

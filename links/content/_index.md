@@ -1,7 +1,7 @@
 ---
 title: "LucentLink"
 # Profile settings
-profileImage: "/images/jack.jpg"        # path under static/
+profileImage: "/images/profile.jpg"        # path under static/
 name: "Jack Schumacher"
 description: "College student pursuing a degree in Business Information Systems with a focus in Cybersecurity"
 # socials:

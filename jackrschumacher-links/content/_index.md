@@ -30,7 +30,6 @@ links:
   - href: "https://linked.in/jackrschumacher"
     icon: "fab fa-linkedin"
     title: "LinkedIn"
-    description: "View my LinkedIn"
   - href: "https://www.jackrschumacher.com/"
     icon: "fas fa-globe"
     title: "My Website"

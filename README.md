@@ -4,3 +4,10 @@
 A collection of my links for easy sharing.
 
 [links.jackrschumacher.com](https://links.jackrschumacher.com)
+
+## Updating the LucentLink theme
+
+```
+git submodule update --remote --merge
+```
+

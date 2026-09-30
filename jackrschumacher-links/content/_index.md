@@ -40,7 +40,7 @@ links:
     icon: "fab fa-github"
     title: "GitHub"
   - href: "https://codeberg.org/jackrschumacher"
-    icon: "fas fa-code-branch"
+    icon: "custom custom-codeberg"
     title: "Codeberg"
   - href: "mailto:contact@jackrschumacher.com"
     icon: "fas fa-envelope"

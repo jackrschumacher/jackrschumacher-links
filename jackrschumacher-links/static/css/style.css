@@ -52,6 +52,22 @@ body {
   color: rgba(130, 130, 130, 0.6);
 }
 
+/* Custom icons not in Font Awesome, used like "custom custom-codeberg" */
+.custom {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  -webkit-mask: no-repeat center / contain;
+  mask: no-repeat center / contain;
+}
+
+.custom-codeberg {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/codeberg.svg");
+  mask-image: url("https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/codeberg.svg");
+}
+
 .bg-animation {
   position: fixed;
   top: 0;

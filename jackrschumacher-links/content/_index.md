@@ -23,7 +23,6 @@ links:
   - href: "https://www.jackrschumacher.com/about/"
     icon: "fas fa-circle-info"
     title: "About me"
-  
   - href: "https://www.jackrschumacher.com/contact"
     icon: "fas fa-address-book"
     title: "Contact me"
@@ -39,6 +38,9 @@ links:
   - href: "https://github.com/jackrschumacher/"
     icon: "fab fa-github"
     title: "GitHub"
+  - href: "https://gitlab.com/jackrschumacher"
+    icon: "fab fa-gitlab"
+    title: "GitLab"
   - href: "https://codeberg.org/jackrschumacher"
     icon: "custom custom-codeberg"
     title: "Codeberg"
